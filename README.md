@@ -81,7 +81,7 @@ This project requires the compatible **DobotEDU / DobotLab environment** and rob
 
 ## 🎥 Demonstration
 
-A DobotLab simulation recording was made for this project. A public video link can be added here once the recording is hosted or optimized for sharing.
+[▶ Watch the full DobotLab simulation demonstration](smart-maintenance-simulation-demo-full.mp4) (2 min 43 sec). This recording documents the simulation environment; it is not presented as footage of the physical robot.
 
 ## 🧪 Development and limitations
 
